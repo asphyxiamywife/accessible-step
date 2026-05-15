@@ -16,6 +16,11 @@ The versioning scheme is listed in the README.
 
 ## Unreleased - DATE
 
+### Added
+
+- Translations
+	- Russian, by [asphyxiamywife](https://github.com/asphyxiamywife)
+
 ## v2.3.0 - 2026-03-25
 
 ### Updated
